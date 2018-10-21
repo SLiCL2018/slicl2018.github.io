@@ -4,7 +4,7 @@ layout: default
 
 This is the course page
 for the seminar course
-[Sequence and Structure Learning in Computational Linguistics](git@github.com:cicl2018/slicl2018.github.io.git)
+[Sequence and Structure Learning in Computational Linguistics](https://SLiCL2018.github.io)
 at the [Department of Linguistics](http://sfs.uni-tuebingen.de),
 [University of Tübingen](http://uni-tuebingen.de).
 
@@ -44,7 +44,7 @@ the methods discussed in the class.
 
 We will use GitHub classroom for class discussion and scheduling.
 To be able to participate in the class discussion
-and access the material, you need to complete a trivial '[assignment]()'.
+and access the material, you need to complete a trivial '[assignment](https://classroom.github.com/a/l2K1gpoG)'.
 This step counts as registration to the course,
 please complete it by Monday 5, November 2018.
 
