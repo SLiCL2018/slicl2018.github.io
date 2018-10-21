@@ -1,0 +1,17 @@
+# Site settings
+title: Sequence and Structure Learning in CL
+subtitle: > # ignore newlines until "description:"
+    Course web page, WS 2018 - 2019
+    <a href="http://www.sfs.uni-tuebingen.de">SfS</a>,
+    <a href="http://uni-tuebingen.de/">University of Tübingen</a>
+description: > # ignore newlines until "baseurl:"
+    This is the course web page for Sequence and Structure Learning in Computational Linguistics
+    taught in the linguistic department (SfS), University of Tübingen.
+baseurl: ""
+url: "https://SLiCL2018.github.io"
+github_username:  slicl2018
+
+encoding: utf-8
+
+# Build settings
+markdown: kramdown
