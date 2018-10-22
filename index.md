@@ -46,7 +46,7 @@ We will use GitHub classroom for class discussion and scheduling.
 To be able to participate in the class discussion
 and access the material, you need to complete a trivial '[assignment](https://classroom.github.com/a/l2K1gpoG)'.
 This step counts as registration to the course,
-please complete it by Monday 5, November 2018.
+please complete it by Wednesday 24, October 2018.
 
 ## Contact
 
